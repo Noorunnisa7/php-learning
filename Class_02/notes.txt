@@ -1,0 +1,44 @@
+Extension: php
+
+Xampp
+xampp>htdocs>create_folders and files
+
+Run in browser 
+localhost:port/foldername
+
+<?php 
+?>
+echo and print
+-------------------------
+Variable 
+$variable_name = value;
+,
+
+Concat .
+
+-----------------------
+Comment 
+// 
+#
+/**/
+
+----------------------------
+Data types 
+integer 
+float 
+string
+decimal 
+boolean 
+array 
+object 
+function 
+
+var_dump() // check data type and show data
+
+----------------------------
+include 
+require 
+
+
+
+

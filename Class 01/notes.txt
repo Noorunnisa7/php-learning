@@ -1,0 +1,10 @@
+Extension: php
+
+Xampp
+xampp>htdocs>create_folders and files
+
+Run in browser 
+localhost:port/foldername
+
+<?php 
+?>
