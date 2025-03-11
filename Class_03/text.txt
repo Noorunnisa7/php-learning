@@ -1,0 +1,29 @@
+operator 
+1) arthematic  + , - ,* , /
+2) assignment operator   ++ , -- , += , -= , *= , /= , .=
+3) comparison operator   < , > , <= ,>= , == , ===
+4) logical operator      && , || , !
+conditions
+-if elseif else 
+-nested if 
+-shorthand if 
+-switch case break 
+-try catch throw
+
+if else 
+
+
+condition < "..." ? true : false
+
+ternary operator
+
+
+Marksheet 
+
+$maths 
+$eng 
+$science 
+$total 
+$percentage
+
+$grade 
