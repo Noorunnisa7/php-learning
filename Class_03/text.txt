@@ -27,3 +27,12 @@ $total
 $percentage
 
 $grade 
+
+
+switch
+case (if)
+case 
+case
+default else  
+
+1 to 7
