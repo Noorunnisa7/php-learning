@@ -1,0 +1,17 @@
+$_GET   get user data from url and from 
+$_POST  Get user data from any form 
+$_FILES get any file(pdf , png , video )
+$_SESSION 
+$_COOKIE 
+$_REQUEST
+
+
+method get/post
+name=""
+
+isset
+
+
+www.website.com/?key=value
+query string
+query param
