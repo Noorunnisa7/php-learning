@@ -19,5 +19,12 @@ U ---> Update   edit
 D ---> Delete   delete
 
 insert into tableName(col1,col2...) values (......)
+select * from tableName
+
+mysqli_fetch_assoc($queryRun)
+
+while(){
+    
+}
 
 
